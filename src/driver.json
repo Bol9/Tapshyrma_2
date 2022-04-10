@@ -1,0 +1,24 @@
+{
+  "drivers": [
+    {
+      "id": 1,
+      "name":"Asan",
+      "bus": ""
+    },
+    {
+      "id": 2,
+      "name":"Kalys",
+      "bus": ""
+    },
+    {
+      "id": 3,
+      "name":"Adilet",
+      "bus": ""
+    },
+    {
+      "id": 4,
+      "name":"Samat",
+      "bus": ""
+    }
+  ]
+}

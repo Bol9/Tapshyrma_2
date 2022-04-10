@@ -1,0 +1,36 @@
+{
+  "avtobaza": [
+  {
+    "id": 1,
+    "name": "MAN",
+    "driver": "",
+    "status": "base"
+  },
+  {
+    "id": 2,
+    "name": "Volvo FH12",
+    "driver": "",
+    "status": "base"
+  },
+  {
+    "id": 3,
+    "name": "DAF XF",
+    "driver": "",
+    "status": "base"
+  },
+    {
+      "id": 4,
+      "name": "VOLVO",
+      "driver": "",
+      "status": "base"
+    },
+    {
+      "id": 5,
+      "name": "TAYGA",
+      "driver": "",
+      "status": "base"
+    }
+
+
+]
+}
